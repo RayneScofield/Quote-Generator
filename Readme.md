@@ -1,3 +1,4 @@
+# [quotes generator page](https://raynescofield.github.io/Quote-Generator/)
 # Resources
 - [Vector Background](http://www.heropatterns.com/)
 - [Google Fonts](https://fonts.google.com/)
